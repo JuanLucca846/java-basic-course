@@ -6,17 +6,28 @@ This course was offered by [DIO](https://auth.dio.me/realms/master/protocol/open
 #### Topics:
 
 - Anatomy of Java Classes.
+
   The fundamental structure of Java classes, which are the building blocks of Java programs. This included understanding class declarations, fields (variables), methods (functions), access modifiers, constructors, and instance variables.
+
 - Operators, Types, and Variables.
+
   Java's operators, such as arithmetic, assignment, comparison, and logical operators, and how they operate on different data types. Primitive data types (int, double, boolean, etc.) and how to declare and initialize variables.
+
 - Terminal Arguments.
+
   concept of command-line arguments and how to pass inputs to your Java programs when executing them from the terminal. To make your programs more interactive and dynamic
+
 - Methods.
+
   Methods, which are reusable blocks of code that can be called multiple times. Method signatures, return types, parameters, and how to define and call methods.
+
 - JavaDoc.
+
   JavaDoc to automatically generate documentation for your classes and methods.
+
 - Challenges
-  The course included four challenges designed to reinforce the concepts
+
+  The course included four challenges designed to reinforce the concepts.
 
 #### Technologies
 
